@@ -1,0 +1,6 @@
+ln -s /opt/files/CPW /var/www/update/CPW
+ln -s /home/gamed/config/elements.data /opt/files/new/element/data/elements.data
+ln -s /home/gamed/config/tasks.data /opt/files/new/element/data/tasks.data
+ln -s /home/gamed/config/gshop.data /opt/files/new/element/data/gshop.data
+ln -s /home/gamed/config/gshop1.data /opt/files/new/element/data/gshop1.data
+ln -s /home/gamed/config/gshop2.data /opt/files/new/element/data/gshop2.data

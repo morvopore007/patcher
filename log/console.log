@@ -1,0 +1,13 @@
+[INFO 2020-05-30 09:21:54] com.pwemu.clientupdater.CPW:75 - Creating patch.
+[INFO 2020-05-30 09:21:55] com.pwemu.framework.crypt.RsaSha1:69 - Loaded private key: MIIBNgIBADANBgkqhkiG9w0BAQEFAASCASAwggEcAgEAAoGBAKZHmC8N+zcJ9SwDH2ccx4VDZZ0ve+PIAsb9ckq4qniB6A9WFpaa3o9xH6JSfJPmMZvu2ccqCF9JJrG3+2EJSN68/ik5FKkdDfCByQiGJAM7PcXuia998oQ+wT1HyrLdpePeXKJmi/h0YRhps1QDyUmteqPD1TO0CFJjOS7wifVDAgEAAoGAcPaUmesKrsKSEDty2w8/MPavktDOftnDoUJPohnAnivK5phasig2aQa2MgWN4sBxFXl39AlHNMyyf+v42FyBZs5OsMcAbMk1RvkStK3RMOIAv8BOddbBbWF+ps4omobhsioyeISuwGjnckZRyb2w2rRrKFPRcq803cX5mrrpeJkCAQACAQACAQACAQACAQA=
+[INFO 2020-05-30 09:21:55] com.pwemu.framework.crypt.RsaSha1:71 - Loaded public key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmR5gvDfs3CfUsAx9nHMeFQ2WdL3vjyALG/XJKuKp4gegPVhaWmt6PcR+iUnyT5jGb7tnHKghfSSaxt/thCUjevP4pORSpHQ3wgckIhiQDOz3F7omvffKEPsE9R8qy3aXj3lyiZov4dGEYabNUA8lJrXqjw9UztAhSYzku8In1QwIDAQAB
+[INFO 2020-05-30 09:21:55] com.pwemu.clientupdater.CPW:167 - Creating next patch data.
+[INFO 2020-05-30 09:21:55] com.pwemu.clientupdater.CPW:172 - Using new files location = files/new/
+[INFO 2020-05-30 09:21:55] com.pwemu.clientupdater.CPW:173 - Using patch output folder = files/CPW/
+[INFO 2020-05-30 09:21:55] com.pwemu.clientupdater.CPWCreator:145 - Updating...
+[INFO 2020-05-30 09:21:55] com.pwemu.clientupdater.CPWCreator:147 - Updating element...
+[INFO 2020-05-30 09:22:14] com.pwemu.clientupdater.CPWCreator:149 - Success.
+[INFO 2020-05-30 09:22:14] com.pwemu.clientupdater.CPWCreator:147 - Updating launcher...
+[INFO 2020-05-30 09:22:14] com.pwemu.clientupdater.CPWCreator:149 - Success.
+[INFO 2020-05-30 09:22:14] com.pwemu.clientupdater.CPWCreator:147 - Updating patcher...
+[INFO 2020-05-30 09:22:14] com.pwemu.clientupdater.CPWCreator:149 - Success.
